@@ -1,0 +1,57 @@
+html,body{
+	margin:0;
+	padding:0;
+	background-color:#eaeaea;
+}
+
+article{
+	margin: 0 auto;
+	width: 75%;
+	display: table;
+	height: auto;
+	background: linear-gradient(#fff,#f7f7f7);
+}
+.par-id{
+	display: table;
+	width: 72%;
+	height: auto;
+	margin: 2% 0 27px;
+	float: left;
+}
+.article-images{
+	display: table;
+	width: 20%;
+	margin: 5% 2.5% 0;
+	float: left;
+}	
+#title{
+	width: 100%;
+	height: 35px;
+}
+
+#timest{
+	font-size:14px;
+	margin-left:50px;
+	float:left;
+	position:relative;
+	bottom:0;
+	width:134px;
+	text-align:center;
+}
+
+.blah{
+	cursor:pointer;
+	border:none;
+	width:200px;
+	height:122px;
+	margin-bottom:0;
+}
+
+.image_wrap{
+	height:auto;
+}
+
+label{
+	height: auto;
+	float: center;
+}

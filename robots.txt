@@ -1,0 +1,5 @@
+User-agent: AhrefsBot
+Disallow: /
+User-agent: BSpider/1.0 libwww-perl/0.40 
+Disallow:
+Sitemap:http://www.naxospolitismos.gr/sitemap.xml
